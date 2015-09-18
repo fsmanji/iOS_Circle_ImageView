@@ -16,6 +16,7 @@
 ## Make dynamic height tableview cell with autolayout
 
 http://www.raywenderlich.com/73602/dynamic-table-view-cell-height-auto-layout
+
 Note: Add below code to your ViewController, so the tableview update its visible cells with 
 correct width when screen rotates, caz in iOS, rotation won't destroy those views.
 
